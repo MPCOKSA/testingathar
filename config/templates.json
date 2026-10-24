@@ -1,0 +1,21 @@
+{
+  "bases": [
+    {"key":"classic","name":"أكاديمي كلاسيكي","category":"أكاديمي","layout":"classic","role":"teacher"},
+    {"key":"editorial","name":"تحريري أنيق","category":"رسمي","layout":"editorial","role":"teacher"},
+    {"key":"timeline","name":"رحلة الإنجاز","category":"إبداعي","layout":"timeline","role":"student"},
+    {"key":"gallery","name":"معرض الأعمال","category":"إبداعي","layout":"gallery","role":"student"},
+    {"key":"minimal","name":"بساطة واضحة","category":"بسيط","layout":"minimal","role":"student"},
+    {"key":"report","name":"تقرير مهني","category":"رسمي","layout":"report","role":"teacher"},
+    {"key":"student","name":"رحلة المتعلم","category":"طالب","layout":"student","role":"student"},
+    {"key":"folio","name":"دفتر الأثر","category":"أكاديمي","layout":"folio","role":"student"}
+  ],
+  "palettes": [
+    {"id":"sand","name":"رملي فاخر","primary":"#17324d","accent":"#c18a35","surface":"#fbf7ef"},
+    {"id":"sage","name":"أخضر هادئ","primary":"#24443e","accent":"#7e9b79","surface":"#f4f7f1"},
+    {"id":"azure","name":"أزرق تعليمي","primary":"#183d68","accent":"#4c88bd","surface":"#f2f7fb"},
+    {"id":"plum","name":"برقوقي ناعم","primary":"#49314d","accent":"#b07b91","surface":"#faf4f7"},
+    {"id":"clay","name":"طيني دافئ","primary":"#593d34","accent":"#c77a55","surface":"#fbf4ef"}
+  ],
+  "fonts": ["system-ui","Tahoma","Arial","Georgia"],
+  "cover_styles": ["clean","ornament","editorial","mono"]
+}

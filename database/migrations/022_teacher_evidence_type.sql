@@ -1,0 +1,1 @@
+ALTER TABLE evidence ADD COLUMN evidence_type TEXT NOT NULL DEFAULT '';
