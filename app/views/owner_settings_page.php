@@ -1,0 +1,1 @@
+<section class="owner-section-page owner-page"><div class="page-heading"><span class="eyebrow">إعدادات الموقع</span><h1>البريد ووضع الصيانة</h1><p>إعداد إرسال رموز استعادة كلمة المرور أو إيقاف الموقع مؤقتًا.</p></div><?php require __DIR__.'/owner_nav.php'; ?><?php require __DIR__.'/owner_settings.php'; ?></section>
